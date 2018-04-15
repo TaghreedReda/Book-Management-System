@@ -1,0 +1,26 @@
+C:\Users\Lenovo\Desktop\book_managment_system\book_managment_system\bin\Debug\book_managment_system.exe.config
+C:\Users\Lenovo\Desktop\book_managment_system\book_managment_system\obj\Debug\book_managment_system.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\book_managment_system\book_managment_system\obj\Debug\book_managment_system.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\book_managment_system\book_managment_system\bin\Debug\book_managment_system.exe
+C:\Users\Lenovo\Desktop\book_managment_system\book_managment_system\bin\Debug\book_managment_system.pdb
+C:\Users\Lenovo\Desktop\book_managment_system\book_managment_system\obj\Debug\book_managment_system.exe
+C:\Users\Lenovo\Desktop\book_managment_system\book_managment_system\obj\Debug\book_managment_system.pdb
+C:\Users\esraa\Desktop\book_managment_system\book_managment_system\bin\Debug\book_managment_system.exe.config
+C:\Users\esraa\Desktop\book_managment_system\book_managment_system\bin\Debug\book_managment_system.exe
+C:\Users\esraa\Desktop\book_managment_system\book_managment_system\bin\Debug\book_managment_system.pdb
+C:\Users\esraa\Desktop\book_managment_system\book_managment_system\obj\Debug\book_managment_system.Form1.resources
+C:\Users\esraa\Desktop\book_managment_system\book_managment_system\obj\Debug\book_managment_system.Properties.Resources.resources
+C:\Users\esraa\Desktop\book_managment_system\book_managment_system\obj\Debug\book_managment_system.csproj.GenerateResource.Cache
+C:\Users\esraa\Desktop\book_managment_system\book_managment_system\obj\Debug\book_managment_system.csproj.CoreCompileInputs.cache
+C:\Users\esraa\Desktop\book_managment_system\book_managment_system\obj\Debug\book_managment_system.exe
+C:\Users\esraa\Desktop\book_managment_system\book_managment_system\obj\Debug\book_managment_system.pdb
+C:\Users\esraa\Desktop\book_managment_system\book_managment_system\obj\Debug\book_managment_system.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\book_managment_system (1)\book_managment_system\book_managment_system\bin\Debug\book_managment_system.exe.config
+C:\Users\Lenovo\Desktop\book_managment_system (1)\book_managment_system\book_managment_system\obj\Debug\book_managment_system.exe
+C:\Users\Lenovo\Desktop\book_managment_system (1)\book_managment_system\book_managment_system\obj\Debug\book_managment_system.pdb
+C:\Users\Lenovo\Desktop\book_managment_system (1)\book_managment_system\book_managment_system\bin\Debug\book_managment_system.exe
+C:\Users\Lenovo\Desktop\book_managment_system (1)\book_managment_system\book_managment_system\bin\Debug\book_managment_system.pdb
+C:\Users\Lenovo\Desktop\book_managment_system (1)\book_managment_system\book_managment_system\obj\Debug\book_managment_system.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\book_managment_system (1)\book_managment_system\book_managment_system\obj\Debug\book_managment_system.Form1.resources
+C:\Users\Lenovo\Desktop\book_managment_system (1)\book_managment_system\book_managment_system\obj\Debug\book_managment_system.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\book_managment_system (1)\book_managment_system\book_managment_system\obj\Debug\book_managment_system.csproj.GenerateResource.Cache
